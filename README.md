@@ -30,8 +30,8 @@ In order to achieve the aim, the following objectives must be met:
 - Newer cars manugactured between 2012 and 2015 have average selling prices (up to R50.9K), with lower mileage (approximately 24K).
 
 ### Dashboards Links:
-Google Looker Studio/ DataStudio:  https://datastudio.google.com/s/mFO1rmEN7xQ
-Lovable AI: https:   https://bright-motors-sales.lovable.app
+- Google Looker Studio/ DataStudio:  https://datastudio.google.com/s/mFO1rmEN7xQ
+- Lovable AI: https:   https://bright-motors-sales.lovable.app
 
 ## Recommendations
 ### Expansion:
