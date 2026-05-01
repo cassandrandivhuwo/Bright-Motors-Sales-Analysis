@@ -19,7 +19,7 @@ In order to achieve the aim, the following objectives must be met:
 - Lovable AI for Dashboard creation
 - Microsoft PowerPoint for presentation
 - CANVA AI for presentation
-- NotebookLM for presentation
+- NotebookLM AI for presentation
 
 ## Summary of results
 - Total revenue of R7.61B from 558,811 units sold (2012–2015), with R7.0B generated in 2015 alone.
