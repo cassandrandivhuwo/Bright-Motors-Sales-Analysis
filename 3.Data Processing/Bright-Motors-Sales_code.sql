@@ -108,10 +108,6 @@ SELECT MIN(year) AS minimum_year,
 MAX(year) AS maximum_year
 FROM `workspace`.`case_study3`.`car_sales_data`;
 
----minimum sale date is 2012-01-01, sale date is 2015-07-21
-SELECT MIN(saledate_datetype) AS min_saledate_datetype,
-MAX(saledate_datetype) AS max_saledate_datetype
-FROM `workspace`.`case_study3`.`car_sales_data`;
 -----------------------------------------------------------------------------------Data Cleaning------------------------------------------------------------------
 ------------------------------------------------------------Change year integer type to DATE type (to enable it to replace nulls in the sale date) using alter table and make_date
 ---1. Create a new empty column for Date type
