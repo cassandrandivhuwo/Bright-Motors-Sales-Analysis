@@ -30,7 +30,7 @@ In order to achieve the aim, the following objectives must be met:
 - Newer vehicles (manufactured from 2012 to 2015) have higher average selling prices (up to R50.9K) and lower mileage (approximately 24K).
 
 ### Dashboards Links:
-- Google Looker Studio/ DataStudio:  https://datastudio.google.com/s/mFO1rmEN7xQ
+- Google Looker Studio/ DataStudio:  https://datastudio.google.com/s/oNeWd7mT6G0
 - Lovable AI: https:   https://bright-motors-sales.lovable.app
 
 ## Recommendations
