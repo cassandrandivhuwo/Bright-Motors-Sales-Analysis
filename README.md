@@ -30,7 +30,7 @@ In order to achieve the aim, the following objectives must be met:
 - 83.5% of sales fall into Low Margin tier, a major profitability concern that needs to be addressed.
 
 ### Dashboards Links:
-- Google Looker Studio/ DataStudio:  https://datastudio.google.com/s/mYUYOTpXw5M
+- Google Looker Studio/ DataStudio:  https://datastudio.google.com/s/kfBjg5qeJl4
 - Lovable AI: https:   https://bright-motors-sales.lovable.app
 
 ## Recommendations
