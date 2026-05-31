@@ -24,8 +24,8 @@ In order to achieve the aim, the following objectives must be met:
 ## Summary of results
 - Total revenue of R7.61bn was generated from 558,811 units sold between 2012 and 2015, with R7.0bn coming in during 2015 alone.
 - Quarter 1 dominates with 62% of revenue, while February (R2.2B) is the peak month, followed by January (R1.9B).
-- Ford is the top-performing make (R1.4B), with the F-150 as the best model (R272.7M) leading in more than 5 states.
-- fl, ca, pa and tx are the top-performing states, together they generate over R3.7B.
+- Ford is the top-performing make (R1.4bn), with the F-150 as the best model (R272.7M) leading in more than 5 states.
+- fl, ca, pa and tx are the top-performing states, together they generate over R3.7bn.
 - Newer vehicles (manufactured from 2012 to 2015) have higher average selling prices (up to R50.9K) and lower mileage (approximately 24K).
 - 83.5% of sales fall into Low Margin tier, a major profitability concern that needs to be addressed.
 
